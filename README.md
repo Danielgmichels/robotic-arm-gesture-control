@@ -12,6 +12,23 @@ A video demonstrating the system's functionality and the "pick and place" valida
  <img src="http://img.youtube.com/vi/Zf2bXpjEzRs/hqdefault.jpg" alt="Watch the video" width="480" border="10" />
 </a>
 
+## 📚 Publication
+
+This project was described in a paper presented at the International Conference on Informatics in Control, Automation and Robotics (ICINCO), 2025. The full paper (PDF) is available at:
+https://www.scitepress.org/Papers/2025/137178/137178.pdf
+
+If you want to cite the work, use the following BibTeX entry:
+
+```bibtex
+@inproceedings{michels2025real,
+  title={Real-Time Hand Gesture Control of a Robotic Arm with Programmable Motion Memory.},
+  author={Michels, Daniel Giraldi and Michels, Davi Giraldi and Zick, Lucas Alexandre and Martinelli, Dieisson and de Oliveira, Andr{\'e} Schneider and Kalempa, Vivian Cremer},
+  booktitle={ICINCO (2)},
+  pages={292--300},
+  year={2025}
+}
+```
+
 ## ✨ Key Features
 
 - **Real-Time Gesture Control:** Manipulate the robot's joints and gripper using natural hand movements captured by a single RGB camera.

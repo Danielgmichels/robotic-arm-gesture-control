@@ -45,8 +45,8 @@ A video demonstrating the system's functionality and the "pick and place" valida
 ### Installation Steps
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
-    cd your-repository
+    git clone https://github.com/Danielgmichels/robotic-arm-gesture-control.git
+    cd robotic-arm-gesture-control
     ```
 
 2.  **Setup ROS & Interbotix Packages:**
@@ -82,7 +82,7 @@ A video demonstrating the system's functionality and the "pick and place" valida
 
 3.  **Run the gesture control script:**
     ```bash
-    python your_main_script_name.py
+    python hand_control.py
     ```
 
 4.  **In-App Controls:**
